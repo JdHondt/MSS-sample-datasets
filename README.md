@@ -1,4 +1,4 @@
-# Multivariate Time Series Datasets for Similarity Search
+# Time Series Datasets for Multivariate Similarity Search
 
 This repository contains sample datasets for multivariate similarity search on time series data, created as part of the **Correlation Detective** project at TU Eindhoven.
 
